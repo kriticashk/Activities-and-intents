@@ -9,6 +9,7 @@ homework<br/>
 
 <b>Question 1</b><br/>
 <p>What changes are made when you add a second Activity to your app by choosing File > New > Activity and an Activity template?<br/>
+  
 -> The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.</p>
 
 <b>Question 2</b><br/>
